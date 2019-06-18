@@ -1,5 +1,5 @@
 /*
-//In the next exercise, we add a test for executing the last CRUD operation i.e, Deleting a job
+//In this exercise, we add a test for executing the last CRUD operation i.e, Deleting a job from the Job tracker app
 */
 
 import { Selector } from 'testcafe';
